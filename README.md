@@ -1,4 +1,4 @@
-<a href="https://moezkayy.com"><img src="https://moezkayy.com/img/og.jpg" alt="Moez Khan — Ideas, made real." width="100%"></a>
+<a href="https://moezkayy.com"><img src="https://moezkayy.com/img/og-2026.jpg" alt="MOEZKAYY: from data systems to AI-powered products, I turn ideas into useful software." width="100%"></a>
 
 ## Hi, I'm Moez 👋
 
@@ -7,6 +7,8 @@
 I work end to end: pipelines and warehouses for clients, AI agents and automation, and full-stack products of my own, from the scraper and the scoring engine to the UI and the deploy.
 
 🌐 **[moezkayy.com](https://moezkayy.com)**: my work, projects and story.
+
+✍️ **[Articles](https://moezkayy.com/articles/)**: what I write about data, APIs and building products.
 
 ### Things I've built
 
@@ -19,9 +21,9 @@ I work end to end: pipelines and warehouses for clients, AI agents and automatio
 
 <sub>🔒 Source for these is private. Each showcase repo covers the architecture, screenshots and engineering decisions, and I'm happy to walk through the code.</sub>
 
-### AI demo builds (open source)
+### AI systems (open source)
 
-Working systems built around fictional businesses, with real test runs and honest numbers. Demo builds, not client work.
+Working systems built around fictional businesses, with real test runs and honest numbers. Portfolio builds, not client work.
 
 | Project | What it does | Stack | |
 |---|---|---|---|
@@ -31,7 +33,6 @@ Working systems built around fictional businesses, with real test runs and hones
 
 ### Shipped for others
 
-- **[CubsCrate](https://moezkayy.com/work/cubscrate/)**: a WooCommerce shop for children's digital books, with instant downloads and only free plugins (in progress)
 - **[Firefly](https://moezkayy.com/work/firefly/)**: turning years of court judgments into clean, structured data
 - **[NACTA](https://moezkayy.com/work/nacta/)**: a manual 6–8 hour ingestion job, now running on its own; an Apache NiFi data-exchange layer
 - **[The Working Town](https://moezkayy.com/work/the-working-town/)**: spreadsheets and forms turned into tools a team runs on
